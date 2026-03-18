@@ -1,0 +1,17 @@
+# 데이터 파일
+*.xlsx
+*.csv
+*.xls
+
+# 환경 설정
+.env
+.streamlit/secrets.toml
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# OS 파일
+.DS_Store
+Thumbs.db
